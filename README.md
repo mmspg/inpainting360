@@ -1,2 +1,2 @@
-# inpainting360
+# Inpainting360
 Applying inpainting to omnidirectional images
